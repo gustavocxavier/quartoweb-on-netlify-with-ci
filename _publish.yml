@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: fc292877-08b1-42df-9ffc-765fbcfbc698
+      url: 'https://ornate-lebkuchen-f6c81b.netlify.app'
