@@ -40,4 +40,14 @@ install.packages("quarto")
 renv::snapshot()
 ```
 
+```
+git pull
+```
+
+```
+git add .
+git commit -m "first commit"
+git push -u origin main
+```
+
 
