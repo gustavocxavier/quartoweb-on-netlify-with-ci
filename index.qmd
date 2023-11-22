@@ -5,6 +5,8 @@ title: "quartoweb-on-netlify-with-ci"
 
 ## Pushing Your R Project to GitHub
 
+This is just a simple test
+
 1. Create repository on githun
 2. Choose HTML
 3. Copy the code to create on gitbash
